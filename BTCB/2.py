@@ -1,0 +1,1 @@
+print ("Học sinh trường THPT Nghuyễn Chí Thanh \n Sống có trách nhiệm với bản thân")
