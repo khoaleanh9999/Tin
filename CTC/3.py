@@ -1,4 +1,4 @@
-def n_giai_thua(n):
+def tinh_giai_thua(n):
     if n == 0:
         return 1
     else:
