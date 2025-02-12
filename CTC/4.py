@@ -3,6 +3,3 @@ def tinh_luy_thua(a, n):
         return 1
     else:
         return a ** n
-    
-a = float(input("a = "))
-n = int(input("n = "))
